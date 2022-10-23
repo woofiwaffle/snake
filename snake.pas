@@ -73,7 +73,7 @@ begin
     
    Draw();
    OnKeyDown:=KeyDown;
-  end.
+ end.
   
 
 
