@@ -1,4 +1,4 @@
-﻿uses GraphABC;
+﻿uses GraphABC; // snake on pascal
 const
   Size=20;
   
